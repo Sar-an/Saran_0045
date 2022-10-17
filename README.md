@@ -49,8 +49,8 @@ Predict the new sample data.
 ## PROGRAM
 
 ```
-#Developed by: B.Kavya
-#Registration no.: 212220230007
+#Developed by: SARAN E
+#Registration no.: 212219220045
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
